@@ -1,2 +1,5 @@
 # cs49c
-Programming in C
+<b>Author:</b> Marl Jonson
+
+### Overview
+* Repository for concepts learned
